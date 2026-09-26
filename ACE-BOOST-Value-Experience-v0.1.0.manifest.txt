@@ -1,0 +1,17 @@
+ACE BOOST Value Experience Release Manifest
+Version: 0.1.0
+Artifact: ACE-BOOST-Value-Experience-v0.1.0.zip
+Expected plugin slug: omb-boost-value-experience
+SHA-256: 92f946dd42145bf2752a0a302a2dc9e43e2232487d896122da42dceef9d42b0a
+Release type: additive, read-only display layer
+
+Purpose:
+- Master Treasury value cards
+- Company acquisition basis vs current reference value
+- Employee reward basis vs current reference value
+
+Accounting protections:
+- Canonical Treasury remains 50,000,000 BOOST
+- Connected wallet balance is not used as Treasury inventory
+- No writes to purchase lots, allocations, reward snapshots, public pool, or company/employee holdings
+- Uses stored verified BOOST quote for display only
